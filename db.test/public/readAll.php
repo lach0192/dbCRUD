@@ -1,7 +1,7 @@
 <?php
 
 /**
- * List all users with a link to edit
+ * List all users
  */
 
 try {

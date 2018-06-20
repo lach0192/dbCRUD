@@ -7,7 +7,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<title>Simple Database App</title>
-
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 
